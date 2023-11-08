@@ -1,0 +1,11 @@
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-F_Cu.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-B_Cu.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-F_Paste.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-B_Paste.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-F_Silkscreen.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-B_Silkscreen.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-F_Mask.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-B_Mask.gbr'.
+Trazado a '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-Edge_Cuts.gbr'.
+Archivo de trabajo Gerber '/home/miguel/kvm/hardware/keyboard/PCBWay/keyboard-job.gbrjob' creado.
+Info: Listo.
