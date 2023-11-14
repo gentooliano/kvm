@@ -3049,6 +3049,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model "/home/misanchez/kvm/hardware/library/PC817C/PC817C.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "PC817C:DIP762W50P254L650H458Q4B" (layer "F.Cu")
